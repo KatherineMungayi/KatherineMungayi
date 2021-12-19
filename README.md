@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KatherineMungayi
 - 👀 I’m interested in Web development/Design and Data Science
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning R and python
+- 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me mungayikate@gmail.com
 
 <!---
